@@ -17,3 +17,5 @@ This is a small AutoHotkey-based utility that remaps Ctrl + Enter to execute the
 
 #### License
 MIT License
+
+![gif](https://github.com/user-attachments/assets/a768d27f-104f-49da-a13e-16cf3cbd8214)
