@@ -4,7 +4,7 @@
 ; License: MIT
 ; GitHub: https://github.com/shrestha-bishal/mysql-yog-ctrl-enter-rebind
 
-#IfWinActive ahk_class MainWindow
+#IfWinActive ahk_exe MySQLWorkbench.exe
 ^Enter::
     Send, {Home}+{End}       ; Select the entire line
     Send, {F9}               ; Execute
