@@ -10,6 +10,11 @@ This is a small AutoHotkey-based utility that remaps Ctrl + Enter to execute the
 - Open SQLyog and place the cursor on a SQL line.
 - Press Ctrl+Enter to execute the current line.
 
+#### Auto Bind
+To automatically start the binding process on system startup, place the .exe file in the Windows startup folder.
+- Locate the Startup Folder: Press `Win + R`, type `shell:startup`, and press `Enter`.
+- Copy your .exe file or a shortcut to it.
+
 #### Compatibility
 - Windows only
 - Requires SQLyog to be the active window
